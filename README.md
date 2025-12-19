@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ARYAN SEN</h1>
+<h1 align="center">Hello Hustlers 👋, This Side ARYAN SEN</h1>
 <h3 align="center">I am passionate about Artificial intelligence</h3>
 
 <image align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYmI0bW92bzMyZWl0NGZkaXZsZ2tpc2Yzd2FzNjlpZnV4cHZmb2VyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jzHFPlw89eTqU/source.gif">
